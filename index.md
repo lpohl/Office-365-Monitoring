@@ -1,2 +1,3 @@
 ## Introduction
 Office 365 is a service offered by Micorosoft along with Micorosoft office. This service is a collaboration of Exchange service, Skype for business, Team services, SharePoint, OneDrive and many more. Now, monitoring these services for security purpose is very difficult. So, we have created small web app with the help of ElasticSearch, D3 and Office 365 management API.
+This app will help you to monitor exchange message trace, spam and malicious email monitoring. This app also help you to monitor unified audit logs of office 365 activities like changes in Azure active directory, exchange server, changes in team services, sharepoint and onedrive services.
